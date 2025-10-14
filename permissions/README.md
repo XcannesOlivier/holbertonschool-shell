@@ -8,6 +8,11 @@ Exercice 7  script that adds execution permission to the owner, the group owner 
 Exercice 8  script that sets the permission to the file hello as follows: Owner: no permission at all, Group: no permission at all, Other users: all the permissions.
 Exercice 9  script that sets the mode of the file hello to this: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello.
 Exercice 10  script that sets the mode of the file hello the same as olleh’s mode. The file hello will be in the working directory,The file olleh will be in the working directory.
- 
+Exercice 11 script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+Exercice 12 script that creates a directory called my_dir with permissions 751 in the working directory.
+Exercice 13 script that changes the group owner to school for the file hello
+Exercice 14 script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+Exercice 15 script that changes the owner and the group owner of _hello to vincent and staff respectively.
+Exercice 16 script that changes the owner of the file hello to vincent only if it is owned by the user guillaume. 
 
 
