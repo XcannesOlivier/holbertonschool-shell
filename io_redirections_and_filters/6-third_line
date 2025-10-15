@@ -1,0 +1,2 @@
+#!/bin/bash
+head -n3 io_redirections_and_filters/iacta
