@@ -1,2 +1,2 @@
 #!/bin/bash
-for a in {a..z};do for b in {a..z};do [ $a$b != oo ]&&echo $a$b;done;done
+for i in {97..122};do for j in {97..122};do [ $i$j != 111111 ]&&printf "%c%c\n" $i $j;done;done
