@@ -1,2 +1,2 @@
 #!/bin/bash
-for i in {97..122};do for j in {97..122};do [ $i$j != 111111 ] || printf "%c%c\n" $i $j;done;done
+printf '%s\n' {a..z}{a..z}|grep -v ^oo$
